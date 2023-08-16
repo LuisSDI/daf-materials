@@ -3,9 +3,9 @@
   "packages": [
     {
       "name": "lints",
-      "rootUri": "file:///Users/suragch/.pub-cache/hosted/pub.dartlang.org/lints-2.0.0",
+      "rootUri": "file:///Users/luisalt/.pub-cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "final_project",
@@ -14,7 +14,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-10-04T07:58:42.989847Z",
+  "generated": "2023-08-16T17:09:33.312215Z",
   "generator": "pub",
-  "generatorVersion": "2.18.2"
+  "generatorVersion": "3.0.6"
 }
